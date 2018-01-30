@@ -1,0 +1,8 @@
+C:\Users\Guilherme\Desktop\Teste\Novo_teste\teste_new\teste_new\obj\Debug\teste_new.Form1.resources
+C:\Users\Guilherme\Desktop\Teste\Novo_teste\teste_new\teste_new\obj\Debug\teste_new.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Desktop\Teste\Novo_teste\teste_new\teste_new\bin\Debug\Calculator.exe.config
+C:\Users\Guilherme\Desktop\Teste\Novo_teste\teste_new\teste_new\bin\Debug\Calculator.exe
+C:\Users\Guilherme\Desktop\Teste\Novo_teste\teste_new\teste_new\bin\Debug\Calculator.pdb
+C:\Users\Guilherme\Desktop\Teste\Novo_teste\teste_new\teste_new\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Teste\Novo_teste\teste_new\teste_new\obj\Debug\Calculator.exe
+C:\Users\Guilherme\Desktop\Teste\Novo_teste\teste_new\teste_new\obj\Debug\Calculator.pdb
